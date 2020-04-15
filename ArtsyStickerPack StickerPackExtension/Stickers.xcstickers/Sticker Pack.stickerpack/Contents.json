@@ -1,9 +1,23 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
     "grid-size" : "regular"
-  }
+  },
+  "stickers" : [
+    {
+      "filename" : "artsysticker-1.sticker"
+    },
+    {
+      "filename" : "artsysticker-2.sticker"
+    },
+    {
+      "filename" : "artsysticker-3.sticker"
+    },
+    {
+      "filename" : "artsysticker-4.sticker"
+    }
+  ]
 }
